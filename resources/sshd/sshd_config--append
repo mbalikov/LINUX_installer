@@ -1,0 +1,6 @@
+
+Port 2222
+TCPKeepAlive yes
+PermitRootLogin without-password
+PasswordAuthentication no
+UsePAM yes
